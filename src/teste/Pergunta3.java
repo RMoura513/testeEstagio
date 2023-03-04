@@ -1,6 +1,6 @@
 package teste;
 
-public class Faturamento {
+public class Pergunta3 {
 
 	
 	public static void main(String[] args) {

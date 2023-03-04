@@ -3,7 +3,7 @@ package teste;
 import java.util.Scanner;
 
 
-public class Inversor {
+public class Pergunta5 {
 	
 	
 	public static void main(String[] args) {

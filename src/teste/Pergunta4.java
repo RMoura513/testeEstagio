@@ -1,6 +1,6 @@
 package teste;
 
-public class Distribuidora {
+public class Pergunta4 {
 
 	public static void main(String[] args) {
 
